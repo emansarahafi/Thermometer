@@ -1,0 +1,41 @@
+# MikroC compiler outputs
+*.asm
+*.lst
+*.mcl
+*.dct
+*.dlt
+*.bmk
+*.brk
+*.cp
+*.dbg
+
+# MikroC project files (user-specific)
+*.user.dic
+*.ini
+
+# Build outputs
+*.hex
+*.elf
+*.map
+*.o
+*.obj
+
+# Proteus backup files
+proteus/*.pdsbak
+proteus/*.workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
