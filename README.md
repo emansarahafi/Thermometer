@@ -55,4 +55,4 @@ A digital thermometer system designed to detect human body temperature using emb
 
 ## License
 
-Open source project for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
